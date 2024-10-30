@@ -24,6 +24,6 @@ The steps above is limited to the FPGA used as described, basic VHDL coding, and
 
 1. Other board xdc file (digilent): [Here](https://github.com/Digilent/digilent-xdc/)
 2. Vivado Installation Guide: [Here](https://digilent.com/reference/programmable-logic/guides/installing-vivado-and-vitis)
-3. Basic VHDL Programming: [Here](https://vhdlwhiz.com/basic-vhdl-tutorials/)
+3. Basic VHDL Programming: [Here](https://vhdlwhiz.com/basic-vhdl-tutorials/) and [Here](https://digilent.com/reference/programmable-logic/guides/getting-started-with-vhdl)
 4. Tutorial Video to understand Digital Design: [Here](https://www.youtube.com/playlist?list=PLEdaowO6UzNENeQ2WHyGC6mlmggnnhMD6)
 5. Simulation Testbench for Waveform analysis: [Here](https://www.youtube.com/watch?v=aeMQJEfGsPY)
